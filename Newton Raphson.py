@@ -49,11 +49,13 @@ def MetodoNewthonRaphson():
     xo = float(xo) - xi
     print(xo)
     print(90*"#", "\n")
-    if(abs(xo) >= float(parada) ):
+    print()
+
+
+    if(abs(ValueFuncao()) > float(parada) ):
         MetodoNewthonRaphson()
     else:
         print("rola")
-
 EntradaDeDados()
 MetodoNewthonRaphson()
 input("press enter to exit")
