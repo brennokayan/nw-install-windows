@@ -3,6 +3,6 @@ echo off
 cd ..
 mkdir Newthon-Raphson-instalado
 cd Newthon-Raphson-instalado
-python-3.11.0-amd64.exe
+python-3.9.9.exe
 py -m ensurepip --upgrade
 pip install sympy
