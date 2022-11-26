@@ -14,7 +14,7 @@
     Voltar para a pasta nr-install-linux 
         Abrir o terminal na pasta nw-install-windows
             executar o comando 
-            > python.exe Newton Raphson.py
+            >python.exe Newton Raphson.py<
 
 ### Algoritmo em Execução
 #### Entradas permitidas
