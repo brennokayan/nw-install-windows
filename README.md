@@ -1,7 +1,7 @@
 # **Guia de Instalação de Newton Raphson - Windows**
 ## Algoritmo para Calculo do método de Newton Raphson
 
-### Execução do Executal
+### Execução do executavel do método Newton Raphson
     Executar duplo clique no Newton Raphson.exe
 
 ### Algoritmo em Execução
