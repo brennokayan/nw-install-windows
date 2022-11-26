@@ -3,8 +3,8 @@
 
 ### Execução do executavel do método Newton Raphson
     Executar duplo clique no Newton Raphson.exe
-###     Algoritmo em Execução
-####    Entradas permitidas
+    Algoritmo em Execução
+    **Entradas permitidas**
 
 ### Instalação para execução via python
 #### Abir a pasta installer
