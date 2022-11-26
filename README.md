@@ -5,7 +5,7 @@
     Executar duplo clique no Newton Raphson.exe
 
 ### Algoritmo em Execução
-#### Entradas permitidas
+* #### Entradas permitidas
 
 ### Instalação para execução via python
 #### Abir a pasta installer
