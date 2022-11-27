@@ -5,8 +5,7 @@
     Executar duplo clique no >Newton Raphson.exe<
 
 ### Algoritmo em Execução
-#### Entradas permitidas
-        Guia de utilização Newton-Raphson 
+#### Guia de utilização Newton-Raphson 
 *********************************
         Formas de entrada:
 
